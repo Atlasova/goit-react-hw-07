@@ -1,0 +1,29 @@
+.contentContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #000;
+}
+
+.contactPhone {
+  font-size: 20px;
+}
+
+.contactName {
+  font-size: 20px;
+}
+
+.userIcon {
+  margin-right: 10px;
+}
+
+.deleteBtn {
+  height: 30px;
+  padding: 5px;
+  background-color: #ff0000;
+  color: #ffffff;
+  border-radius: 5px;
+  border-style: none;
+  cursor: pointer;
+  font-size: 20px;
+}
